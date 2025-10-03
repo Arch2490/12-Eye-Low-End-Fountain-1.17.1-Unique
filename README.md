@@ -1,6 +1,5 @@
-/># 12-Eye-Low-End-Fountain-1.17.1-Unique
+# 12-Eye-Low-End-Fountain-1.17.1-Unique
 ≤Y48 End fountains that also contains a 12 eye end portal in the same seed. Only works on 1.17.1
-
 #
 # INFO
 - Every single 1.17.1 12 eye seed in here is found using Microboinc developed by Matt. Seedlist public in the Minecraft@Home Discord Server or download [here](https://cdn.discordapp.com/attachments/862042593826832424/1039041552372220052/12eye1171Unique.txt?ex=68e0a9da&is=68df585a&hm=73ddd2ed1cf3bf0375131a08abd7b71e5579199215f77d4c23e0f278fbe67ce4&)
