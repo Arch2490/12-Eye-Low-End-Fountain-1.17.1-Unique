@@ -1,4 +1,4 @@
-<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/babcfb27-633a-4522-a475-4922d3c7f215" /><img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/64a063dd-4b83-4132-be32-4457ef73af0a" /># 12-Eye-Low-End-Fountain-1.17.1-Unique
+/># 12-Eye-Low-End-Fountain-1.17.1-Unique
 ≤Y48 End fountains that also contains a 12 eye end portal in the same seed. Only works on 1.17.1
 
 #
